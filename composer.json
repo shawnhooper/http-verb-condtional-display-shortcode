@@ -1,7 +1,7 @@
 {
-	"name": "actionable/gravity-forms-country-province-dropdown",
+	"name": "actionable/http-verb-condtional-display-shortcode",
 	"type": "wordpress-plugin",
-	"license": "MIT",
+	"license": "GPL",
     "authors": [
         {
             "name": "Shawn Hooper",
