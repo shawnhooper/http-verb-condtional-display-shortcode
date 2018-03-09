@@ -1,7 +1,8 @@
 {
 	"name": "actionable/http-verb-condtional-display-shortcode",
 	"type": "wordpress-plugin",
-	"license": "GPL",
+	"license": "GPL-3.0-only",
+	"description":"A WordPress shortcode that only displays content if page is called with a specific verb (GET/POST/etc)",
     "authors": [
         {
             "name": "Shawn Hooper",
